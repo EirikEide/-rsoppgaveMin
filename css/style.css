@@ -1,0 +1,11 @@
+#clickbutton {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.cookie {
+    padding: 10px 0px;
+    height: 110%;
+}
